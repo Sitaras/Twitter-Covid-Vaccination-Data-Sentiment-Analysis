@@ -1,7 +1,7 @@
 # Twitter-Covid-Vaccination-Data-Sentiment-Analysis
 
 The purpose of this project is to do a sentiment analysis on tweets about Covid-19 vaccinations in 3 classes (0-neutral, 1-negative, 2-positive). 
-Todo this, i experimented with 4 different types of models:
+To-do this, I experimented with 4 different types of models:
 
 1. Softmax Regression
 2. Feed-Forward neural network.
