@@ -19,7 +19,5 @@ The scores of the best models of each one of theese model types are listed below
 | LSTM with attention layer | 69 % | 72 % | 70 % | 69.36 % |
 | BERT-Base-uncased | 78 % | 71 % | 73 % | 71 % |
 
-You can clearly see the increase of the scores when i increase the complexity of the used model (especially in BERT) because the statistical hypothesis in more complex models is usually more accurate.
-
 The code in ipynb notebooks and data used can be found in the corresponding models.
 
