@@ -19,5 +19,4 @@ The scores of the best models of each one of theese model types are listed below
 | LSTM with attention layer | 69 % | 72 % | 70 % | 69.36 % |
 | BERT-Base-uncased | 78 % | 71 % | 73 % | 71 % |
 
-The code in ipynb notebooks and data used can be found in the corresponding models.
 
