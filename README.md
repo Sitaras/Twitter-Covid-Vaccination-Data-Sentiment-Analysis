@@ -9,7 +9,6 @@ To-do this, I experimented with 4 different types of models:
 4. BERT-Base-uncased.
 
 
-The scores of the best models of each one of theese model types are listed below:
 
 | Model       | Precision   | Recall        | F1 Score | Accuracy | 
 | ----------- | ----------- | ------------- | ------ | ------- |
